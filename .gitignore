@@ -1,0 +1,5 @@
+dist/
+env/
+__pycache__
+.pytest_cache
+src/tippie.egg-info
