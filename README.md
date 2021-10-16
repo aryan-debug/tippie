@@ -9,4 +9,4 @@ The main reason I am working on it is to save time when I type hint. I was worki
 # How to use it?
 `tippie [file_name]`
 
-##Have a great day!
+## Have a great day!
